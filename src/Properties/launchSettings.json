@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FileMetadataPerf": {
+      "commandName": "Project",
+      "commandLineArgs": "data LAPTOP C:\\Temp\\fmp 1000"
+    }
+  }
+}
